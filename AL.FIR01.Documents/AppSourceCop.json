@@ -1,0 +1,5 @@
+﻿{
+  "supportedCountries": ["GB"], 
+  "mandatoryPrefix": "D365DL",
+  "baselinePackageCachePath": "."
+}
